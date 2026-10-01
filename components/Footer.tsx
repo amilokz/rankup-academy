@@ -80,7 +80,7 @@ export default function Footer() {
 
         <div className="border-t border-white/10 py-6 text-center text-xs font-medium text-white/40">
           © 2026 RankUp Academy — Demo website crafted for illustration. All
-          names, marks and figures are fictional.
+          names, marks and figures are fictional. · Designed &amp; built by <a href="https://akclnt.com" className="text-white/60 underline underline-offset-4">AKCLNT</a>
         </div>
       </div>
     </footer>
